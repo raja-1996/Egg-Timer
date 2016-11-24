@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_2be1228bf73f3db7c1c853734090c3d053bccf56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a307ec3447cfa907d59d63f26c110c7accb159cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_f08401e125dc5fae82ef46809c63bb1afecd59ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_47f4d18a4074ae9b3b754464b249d93e57bc9a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_34c2a37daef7bb91b7775888217abbe11e11eeab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_e7c6a713dc029691f4aac4134db4cf8cf5619eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_b79a484b9cc9065d54b9e940303dc0abd14fc65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8f84cd49dc38713f0ee23da8d9f35ab18e86a175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_8d5c46d3ff22c225802ed0b47e163ea42e8b1a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ef09efec6f6a254b1da9833a8c5e5cd31bc87b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_c506a5b2622004efcedae5ecd3573064919d8ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_57b6a9540f985126205be033963c58e51c953b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_634da4698033c2e44126f68d7b37186e3330b511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7444898e61257ffa86c2cf710f172059405a4a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_b65669afb4af9c954d0a95597b3ce17a63242bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_1f67fbcd621b3e056ef97fff45d1f06650debd2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_5e160f4fa044dbeff8aaa72a2fcc8979328a63e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/raja/AndroidStudioProjects/EggTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ce640e81197f8d84a090823e9473048bff3ba6c6.jar" />
+    </item>
+
+</items>
